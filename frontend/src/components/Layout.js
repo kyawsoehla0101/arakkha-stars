@@ -4,7 +4,7 @@ import '../index.css'
 
 function Layout({ children }) {
   return (
-    <Container>
+    <Container className="py-5 mh-100vh">
       {children}
     </Container>
   );

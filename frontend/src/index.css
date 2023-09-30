@@ -13,6 +13,9 @@ body {
 
   /* the rest of your styling */
 }
+.bg-img{
+  background-image: url('https://www.programiz.com/sites/all/themes/programiz/dist/images/466cb48a8326b7a0816379e81b363a19.svg'),linear-gradient(359.93deg,#ddeffd -44.48%,#e5f1fb 102.88%);
+}
 .bg-custom{
   background-color: rgba(20,28,58,.9);
 }
@@ -55,3 +58,7 @@ div {
   font-family: Unicode !important;
   font-weight: bold !important;
 } */
+.active{
+  color:#F0AD4E;
+  font-weight: bold;
+ }
